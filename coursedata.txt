@@ -1,0 +1,39 @@
+CSS; 301; Technical Writing for Computing Professionals; 5
+CSS; 310; Information Assurance & Cyber Security; 5
+CSS; 337; Secure Systems; 5
+CSS; 340; Applied Algorithmics; 5
+CSS; 342; Data Structures, Algorithms, & Discrete Mathematics I; 5
+CSS; 343; Data Structures, Algorithms, & Discrete Mathematics II; 5
+CSS; 350; Management Principles for Computing Professionals; 5
+CSS; 360; Software Engineering; 5
+CSS; 370; Analysis & Design; 5
+CSS; 383; Bioinformatics; 5
+CSS; 385; Introduction to Game Development; 5
+CSS; 390; Special Topics; 5
+CSS; 397; Computing Internship; 5
+CSS; 415; Emerging Topics in Information Assurance & Cybersecurity; 5
+CSS; 421; Introduction To Hardware & Operating Systems; 5
+CSS; 422; Hardware & Computer Organization; 5
+CSS; 427; Introduction to Embedded Systems; 5
+CSS; 430; Operating Systems; 5
+CSS; 432; Computer Networking; 5
+CSS; 434; Parallel & Distributed Computing; 5
+CSS; 436; Cloud Computing; 5
+CSS; 448; Introduction to Compilers; 5
+CSS; 450; Computer Graphics; 5
+CSS; 451; 3-D Computer Graphics; 5
+CSS; 452; Game Engine Development; 5
+CSS; 455; Intro to Computational Science & Scientific Programming; 5
+CSS; 457; Multimedia & Signal Computing; 5
+CSS; 458; Fundamentals of Computer Simulation Theory & Application; 5
+CSS; 461; Software Project Management; 5
+CSS; 473; Entrepreneurship Seminar; 5
+CSS; 474; Product Development Lab; 5
+CSS; 475; Database Systems; 5
+CSS; 478; Usability & User-Centered Design; 5
+CSS; 480; Principles of Human-Computer Interaction; 5
+CSS; 481; Web Programming & Applications; 5
+CSS; 482; Expert Systems; 5
+CSS; 483; Bioinformatics Algorithms; 5
+CSS; 485; Introduction to Artificial Neural Networks; 5
+CSS; 487; Computer Vision; 5
