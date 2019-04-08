@@ -66,3 +66,4 @@
      
         2. Edit student record
   
+  Copyright © 2019 Tung Dinh - All Rights Reserved
